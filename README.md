@@ -27,7 +27,7 @@ Esta es una API simple construida con Flask que permite gestionar tareas. Incluy
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/task-api.git
+   git clone https://github.com/ITZ-NANO21-MC/API-Tarea.git
    cd task-api
    ```
 
